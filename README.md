@@ -2,7 +2,7 @@
 
 Este es un proyecto de maquetación web para una empresa de hosting, enfocado en ofrecer una experiencia de usuario fluida y accesible. El diseño está centrado en la simplicidad, la optimización y la eficiencia, utilizando HTML, CSS y JavaScript.
 
-![Vista Previa](img/web2.png)
+![Vista Previa](web2.png)
 
 ## 🌐 Demo en Vivo
 
